@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Jose Manuel 👋
+
+I'm a Data Analyst who is passionate about making open-source more accessible and building community. Some technologies I enjoy working with include R and Python. My interest in knowledge-sharing led me to launch <a href="https://www.facebook.com/Quarantine-HUB-100133491701774">Quarantine Hub</a>, a community for Data Scientist.
+
+
+## Find me around the web 🌎:
+- Twitter: <a href="https://twitter.com/JMireles_">@JMireles_</a> 💬
+- LinkedIn: <a href="https://www.linkedin.com/in/josemirelesq/">José M. Mireles</a> 💼
 
 <!--
 **JoseMirelesQ/JoseMirelesQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
