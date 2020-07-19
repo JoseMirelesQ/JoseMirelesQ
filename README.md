@@ -1,5 +1,7 @@
 # Hi there, I'm Jose Manuel 👋
 
+![image](https://user-images.githubusercontent.com/11842660/87885561-8fc10080-c9dc-11ea-8c04-548eeb71c8d6.gif)
+
 I'm a Data Analyst who is passionate about making open-source more accessible and building community. Some technologies I enjoy working with include R and Python. My interest in knowledge-sharing led me to launch <a href="https://www.facebook.com/Quarantine-HUB-100133491701774">Quarantine Hub</a>, a community for Data Scientist.
 
 
