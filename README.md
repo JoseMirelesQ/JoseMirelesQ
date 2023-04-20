@@ -6,14 +6,13 @@ I'm a Data Analyst who is passionate about making open-source more accessible an
 
 
 ## Find me around the web 🌎:
-- Twitter: <a href="https://twitter.com/JMireles_">@JMireles_</a> 💬
 - LinkedIn: <a href="https://www.linkedin.com/in/josemirelesq/">José M. Mireles</a> 💼
 
 <!--
 **JoseMirelesQ/JoseMirelesQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Twitter: <a href="https://twitter.com/JMireles_">@JMireles_</a> 💬
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
